@@ -8,3 +8,9 @@
 - **Back**: When enabled, it also adds the text to back of the sign, else it wont.
 - **MAX**: When enabled, it will make a sign as **big as possible**
 - **Black Box with 80 (or number)**: A *length* box. This determines how long each line is on the sign. **80 = 80 characters** _(Paper only supports 80)_
+
+### LINKS
+- Discord: https://discord.gg/tchc7vfqUH
+- Source: https://github.com/Quackerx/Sign-Editor (THIS PAGE!!)
+- Modrinth: (not yet)
+- Curseforge: (not yet)
