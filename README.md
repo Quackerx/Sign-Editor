@@ -13,4 +13,4 @@
 - Discord: https://discord.gg/tchc7vfqUH
 - Source: https://github.com/Quackerx/Sign-Editor (THIS PAGE!!)
 - Modrinth: (not yet)
-- Curseforge: (not yet)
+- Curseforge: https://www.curseforge.com/minecraft/mc-mods/sign-editor
